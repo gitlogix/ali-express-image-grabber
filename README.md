@@ -8,7 +8,7 @@ A chrome extension which grabs the images of an item on aliexpress.com
 1) npm install
 
 // continuous development
-2) npm run dev
+2) npm start
 
 // build extension zip
 3) npm run build
